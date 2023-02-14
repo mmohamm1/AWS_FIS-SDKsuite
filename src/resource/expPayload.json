@@ -1,0 +1,7 @@
+{
+ "clientToken": "string",
+ "experimentTemplateId": "string",
+ "tags": {
+ "string" : "string"
+ }
+ }
